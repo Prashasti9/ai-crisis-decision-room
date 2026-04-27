@@ -1,0 +1,12 @@
+{
+  "date": "2025-12-31",
+  "ems_calls": 686,
+  "predicted_surge": 823,
+  "heat_risk": true,
+  "hospital_utilization": null,
+  "disaster_flag": 0,
+  "actions": [
+    "Open emergency surge unit",
+    "Open cooling centers and issue heat advisory"
+  ]
+}
